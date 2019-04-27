@@ -1,6 +1,6 @@
 1. Author by Siyu Zhou
 2. This is for facade design pattern
-2. Scnario: When you arrive home, you need to turn on the light, turn on the air condition, set the temperature and check the VoiceMesage of homephone. 
+3. Scnario: When you arrive home, you need to turn on the light, turn on the air condition, set the temperature and check the VoiceMesage of homephone. 
 4. Developing and testing on MacOX Sierra Version 10.12.3, Eclipse Version 2019-03
 5. Coding after study from https://www.ics.uci.edu/~emilyo/teaching/info122w2014/
 
