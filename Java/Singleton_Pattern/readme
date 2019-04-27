@@ -1,0 +1,5 @@
+1. Author by Siyu Zhou
+2. This is for singleton design pattern
+3. Scenario: Radio turn up volumn. Guaranteee there is only one radio objects.
+4. Developing and testing on MacOX Sierra Version 10.12.3, Eclipse Version 2019-03
+5. Coding and design this after study from https://www.geeksforgeeks.org/singleton-design-pattern/
