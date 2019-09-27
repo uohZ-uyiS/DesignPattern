@@ -1,7 +1,7 @@
 1. Author by Siyu Zhou
 2. This is for factory design pattern(simple factory)
 3. Scenario: client order donut. This code just mentions three type donuts.
-4. Developing and testing on MacOX Sierra Version 10.12.3, Eclipse Version 2019-03
+4. Developing and testing on MacOX Sierra Version 10.12.3, Eclipse Version 2019-03, java version "1.8.0_101"
 5. Coding and design this after study from
 https://www.ics.uci.edu/~emilyo/teaching/info122w2014/samplecode/lecture8/
 https://www.youtube.com/watch?v=ub0DXaeV6hA&list=PLF206E906175C7E07&index=5
